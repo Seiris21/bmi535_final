@@ -1,6 +1,6 @@
-CASRN,Name,Type,Target
-12345,Miraculnib,Promoter,HIS4
-30379,Disappointfil,Inhibitor,HER2
-74339,Blankerist,Inhibitor,RAI7
-93029,Infecterfil,Inhibitor,HER2
-20397,Shutnib,Promoter,MAD3
+CASRN,Name,Type
+12345,Miraculnib,Promoter
+30379,Disappointfil,Inhibitor
+74339,Blankerist,Inhibitor
+93029,Infecterfil,Inhibitor
+20397,Shutnib,Promoter
