@@ -12,7 +12,7 @@ put 'heed:hbase', 'HIS4', 'Inh:iid1', '2109867'
 put 'heed:hbase', 'HIS4', 'Inh:iid2', '498692'
 put 'heed:hbase', 'HIS4', 'Inh:iid3', '45096'
 put 'heed:hbase', 'HIS4', 'Inh:iid4', '98235'
-put 'heed:hbase', 'HIS4', 'Inh:iid5', '93846
+put 'heed:hbase', 'HIS4', 'Inh:iid5', '93846'
 put 'heed:hbase', 'THO9', 'Pro:pid0', '19238'
 put 'heed:hbase', 'THO9', 'Pro:pid1', '123098'
 put 'heed:hbase', 'THO9', 'Pro:pid2', '945'
