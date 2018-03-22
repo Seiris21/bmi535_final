@@ -1,0 +1,5 @@
+{'CASRN':12345,'Name':'Miraculnib','Type':'Promoter','Target':'HIS4','Reaction':30379}
+{'CASRN':30379,'Name':'Disappointfil','Type':'Inhibitor','Target':'HER2','Reaction':12345}
+{'CASRN':74339,'Name':'Blankerist','Type':'Inhibitor','Target':'RAI7','Reaction':20397}
+{'CASRN':93029,'Name':'Infecterfil','Type':'Inhibitor','Target':'HER2','Reaction':30379}
+{'CASRN':20397,'Name':'Shutnib','Type':'Promoter','Target':'MAD3','Reaction':74339}
