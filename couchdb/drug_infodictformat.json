@@ -1,0 +1,9 @@
+{
+  "docs":[
+    {'_id':12345,'Name':'Miraculnib','Type':'Promoter','Target':'HIS4','Reaction':30379},
+    {'_id':30379,'Name':'Disappointfil','Type':'Inhibitor','Target':'HER2','Reaction':12345},
+    {'_id':74339,'Name':'Blankerist','Type':'Inhibitor','Target':'RAI7','Reaction':20397},
+    {'_id':93029,'Name':'Infecterfil','Type':'Inhibitor','Target':'HER2','Reaction':30379},
+    {'_id':20397,'Name':'Shutnib','Type':'Promoter','Target':'MAD3','Reaction':74339}
+  ]
+}
