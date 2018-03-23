@@ -1,0 +1,10 @@
+{
+  "docs":[
+    {"_id":"12345","Name":"Miraculnib","Type":"Promoter","primary_target":"HIS4","secondary_target":"RAI7","other_target":["MAD3","HER2"],"Reaction":"30379"},
+    {"_id":"30379","Name":"Disappointfil","Type":"Inhibitor","primary_target":"HER2","other_target":["MAD3","DUH5"],"Reaction":"12345"},
+    {"_id":"74339","Name":"Blankerist","Type":"Inhibitor","primary_target":"RAI7","Reaction":"20397"},
+    {"_id":"93029","Name":"Infecterfil","Type":"Inhibitor","primary_target":"HER2","secondary_target":"RAI7","other_target":["HIS4","MAD3","DUH5"],"Reaction":"30379"},
+    {"_id":"20397","Name":"Shutnib","Type":"Promoter","primary_target":"MAD3","other_target":"RAI7","Reaction":"74339"},
+    {"_id":"65535","Name":"Unknownib","Type":"Unknown"}
+  ]
+}
